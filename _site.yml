@@ -1,0 +1,9 @@
+name: "Global knowledge about various symptoms and how to alter them"  
+author: "Florian Hansen"  
+output_dir: "docs"  
+output:  
+  html_document:  
+    self_contained: no  
+    theme: flatly  
+navbar:  
+  title: "Cross-Cultural Symptoms & their releives" 
