@@ -1,7 +1,6 @@
 ---
 title: "Interests"
 author: "Florian Hansen"
-
 ---
 
 ## Some of my interests
@@ -20,4 +19,4 @@ I am interested in:
 My first bigger project was on kin research, you can check out the team I worked with here: [Facelab](http://facelab.org/)
 
 Here is a funny example how a researcher bias might happen.
-[Men investigating sexism](images/investigating gender opression.jpg)
+![Men investigating sexism](images/investigating gender opression.jpg)
