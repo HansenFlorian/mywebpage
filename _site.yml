@@ -1,9 +1,19 @@
-name: "Global knowledge about various symptoms and how to alter them"  
+name: "Global knowledge about problematic symptoms and how to relieve them"  
 author: "Florian Hansen"  
 output_dir: "docs"  
 output:  
   html_document:  
     self_contained: no  
-    theme: flatly  
+    theme: default
+    css: style.css
 navbar:  
-  title: "Cross-Cultural Symptoms & their releives" 
+  color: hsl(175, 0%, 84%)
+  title: "Florian Hansen"
+  type: inverse
+  left:
+    - text: "Research"
+      href: research.html
+    - text: "Career Path"
+      href: files/acadcv.pdf
+    - text: "Contact Me"
+      href: contactme.html

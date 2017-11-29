@@ -1,0 +1,34 @@
+---
+  title: "Contact Me"
+---
+
+<center>
+<a href="mailto:2095835h@student.gla.ac.uk">
+  <img src="images/envgreen.png"
+    onmouseover="this.src='images/envturk.png';"
+    onmouseout="this.src='images/envgreen.png';" alt="e-mail logo" style="margin: 20px 15px;">
+</a>
+<a href="https://github.com/HansenFlorian">
+  <img src="images/gitgreen.png"
+    onmouseover="this.src='images/gitturk.png';"
+    onmouseout="this.src='images/gitgreen.png';" alt="ORCHiD logo" style="margin: 20px 15px;">
+</a>
+<a href="https://twitter.com/Hansen_Florian_">
+  <img src="images/twigreen.png"
+    onmouseover="this.src='images/twiturk.png';"
+    onmouseout="this.src='images/twigreen.png';" alt="ORCHiD logo" style="margin: 20px 15px;">
+</a>
+<a href="https://orcid.org/0000-0002-5444-4606">
+  <img src="images/orcgreen.png"
+    onmouseover="this.src='images/orcturk.png';"
+    onmouseout="this.src='images/orcgreen.png';" alt="ORCHiD logo" style="margin: 20px 15px;">
+</a>
+
+
+
+<a class="twitter-timeline" width="600px" height="1000px" href="https://twitter.com/Hansen_Florian_?ref_src=twsrc%5Etfw">
+</a> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script> 
+
+<font size="0.5"> Github icon button based on one adapted from the work of [Simpleicon](https://www.flaticon.com/packs/simpleicon-social-media/2) and other icon buttons based on/adapted from [Elegant Themes](https://www.flaticon.com/packs/elegant-font) under a [Creative Commons (CC 3.0)](https://creativecommons.org/licenses/by/3.0/) license. Original designs by [Rebecca J. Lei](https://rebeccajlai.github.io/mywebpage). Edited in Paint.</font>
+
+</center>
